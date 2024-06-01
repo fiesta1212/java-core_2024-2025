@@ -1,6 +1,5 @@
 package timus.task_1293;
 
-//import java.io.PrintWriter;
 import java.util.Scanner;
 
 public class Main {
